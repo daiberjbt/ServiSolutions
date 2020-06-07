@@ -197,19 +197,23 @@
   <div class="row">
     <div class="col-sm-3" align="center">
       <br><h5 class="text-center">Carpinteria</h5><br>
-      <img src="images/carpinteria.jpg" width="250px">&nbsp
+      <img src="images/carpinteria.jpg" width="250px" style="opacity:1; filter:alpha(opacity=100)" onmouseout="this.  style.opacity=1;this.filters.alpha.opacity=100" 
+        onmouseover="this.style.opacity=0.5;this.filters.alpha.opacity=60">&nbsp
     </div>
     <div class="col-sm-3" align="center">
       <br><h5 class="text-center">Electricista</h5><br>
-      <img src="images/electricista.jpg" width="250px">&nbsp
+      <img src="images/electricista.jpg" width="250px" style="opacity:1; filter:alpha(opacity=100)" onmouseout="this. style.opacity=1;this.filters.alpha.opacity=100" 
+        onmouseover="this.style.opacity=0.5;this.filters.alpha.opacity=60">&nbsp
     </div>
     <div class="col-sm-3" align="center">
       <br><h5 class="text-center">Plomeria</h5><br>
-      <img src="images/plomeria.jpg" width="250px">&nbsp
+      <img src="images/plomeria.jpg" width="250px" style="opacity:1; filter:alpha(opacity=100)" onmouseout="this.  style.opacity=1;this.filters.alpha.opacity=100" 
+        onmouseover="this.style.opacity=0.5;this.filters.alpha.opacity=60">&nbsp
     </div>
     <div class="col-sm-3" align="center">
       <br><h5 class="text-center">Pintura</h5><br>
-      <img src="images/pintura.jpg" width="250px">&nbsp
+      <img src="images/pintura.jpg" width="250px" style="opacity:1; filter:alpha(opacity=100)" onmouseout="this.  style.opacity=1;this.filters.alpha.opacity=100" 
+        onmouseover="this.style.opacity=0.5;this.filters.alpha.opacity=60">&nbsp
     </div>
   </div> 
 </div>
